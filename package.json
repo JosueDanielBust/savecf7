@@ -1,0 +1,12 @@
+{
+  "name": "yeseye",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Josue Daniel Bustamante",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "mysql": "^2.13.0"
+  }
+}
